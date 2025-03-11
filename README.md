@@ -14,6 +14,10 @@ A native application localised to Amrita that focuses on bulding a peer to peer 
     npm install lucide-react
     npm install framer-motion
     ```
+4. Install tailwind css dependancies :
+   ```
+   npm install tailwindcss postcss autoprefixer
+   ```
 4. Start the development server:
     ```
     npm install
